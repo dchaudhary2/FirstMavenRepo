@@ -7,6 +7,7 @@ public class LoginTest {
 		
 		
 		System.out.println("Change for Git");
+		System.out.println("next change");
 	}
 
 }
