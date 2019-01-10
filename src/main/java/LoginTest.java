@@ -6,7 +6,7 @@ public class LoginTest {
 	public void LoginUXTest(){
 		
 		
-		System.out.println("Change for build test");
+		System.out.println("Change for build test")
 		
 	}
 
